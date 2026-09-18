@@ -46,22 +46,3 @@ The project covers the following major activities:
 11. SLA and related-record validation
 12. Testing and final validation
 
-## Project Phases
-
-### Phase 1 – Ideation
-
-This phase focuses on understanding the problem, brainstorming possible solutions, defining customer problem statements, and understanding user needs through empathy mapping.
-
-### Phase 2 – Requirement Analysis
-
-This phase covers customer journey mapping, functional and non-functional requirements, data flow, user stories, and the technology/architecture requirements of the proposed solution.
-
-### Phase 3 – Project Design
-
-This phase covers problem–solution fit, proposed solution, and solution architecture for the Incident Lifecycle Automation in ServiceNow project.
-
-
-        ↓
-Knowledge Article Creation
-        ↓
-SLA and Final Validation
