@@ -174,6 +174,136 @@ The project implementation was organized into four sprints.
 The complete implementation was planned and completed through four structured sprints.
 
 ---
+---
+
+## Phase 5 – User Acceptance Testing
+
+The User Acceptance Testing (UAT) phase verified whether the completed ServiceNow workflow met the defined project requirements and expected user workflow.
+
+### Testing Period
+
+**13–15 September 2026**
+
+### UAT Summary
+
+| **Testing Item** | **Result** |
+|---|---:|
+| Test Cases | 14 |
+| Passed | 14 |
+| Failed | 0 |
+| Not Tested | 0 |
+| UAT Defects Recorded | 0 |
+
+### UAT Coverage
+
+- Incident creation and classification
+- Knowledge / Agent Assist
+- Assignment and reassignment
+- Level 2 investigation
+- SLA and activity tracking
+- Emergency change
+- Child incident
+- Incident resolution
+- Knowledge article creation
+- Related-record validation
+- Complete incident lifecycle
+
+### Outcome
+
+All documented UAT test cases were successfully completed with no failed test cases.
+
+---
+
+## Phase 6 – Project Documentation
+
+The Project Documentation phase consolidated the complete **Incident Lifecycle Automation in ServiceNow** project, including the requirements, design, planning, implementation workflow, testing, results, and final validation.
+
+### Documentation Includes
+
+- Project Overview and Objectives
+- Ideation and Problem Analysis
+- Requirement Analysis
+- Customer Journey Map and User Stories
+- Data Flow Diagram
+- Technology Stack
+- Problem–Solution Fit
+- Proposed Solution
+- Solution Architecture
+- Project Planning and Scheduling
+- Implemented ServiceNow Workflow
+- User Acceptance Testing
+- Functional and Performance/Usability Testing
+- Results and Final Validation
+- Advantages and Limitations
+- Conclusion and Future Scope
+
+### Outcome
+
+A complete project documentation set was prepared covering all phases of the project from ideation to final testing and validation.
+
+---
+
+## Phase 7 – Project Demonstration
+
+The Project Demonstration phase presents the completed **Incident Lifecycle Automation in ServiceNow** and demonstrates the implemented workflow in the ServiceNow environment.
+
+### Demonstration Covers
+
+- Service and Service Offering setup
+- Incident creation
+- Incident classification
+- Knowledge / Agent Assist
+- Assignment and Level 2 investigation
+- SLA and activity tracking
+- Emergency change
+- Child incident
+- Incident resolution
+- Knowledge article creation
+- Related records
+- Final lifecycle validation
+
+### Demonstration Workflow
+
+**Service Setup → Incident Creation → Classification → Knowledge Assistance → Assignment → Level 2 Investigation → Change / Child Incident → Resolution → Knowledge Article → SLA & Related Records → Final Validation**
+
+### Outcome
+
+The completed ServiceNow project and its end-to-end incident management workflow are demonstrated using the implemented project configuration and workflow.
+
+---
+
+# Final Project Workflow
+
+The complete project follows the following progression:
+
+**Ideation → Requirement Analysis → Project Design → Project Planning → Implementation → User Acceptance Testing → Project Documentation → Project Demonstration**
+
+### ServiceNow Incident Lifecycle
+
+**Service Setup → Incident Creation → Classification → Knowledge Assistance → Assignment → Level 2 Investigation → Emergency Change / Child Incident → Resolution → Knowledge Article Creation → SLA & Related Records → Final Validation**
+
+---
+
+# Project Structure
+
+```text
+Incident_Lifecycle_Automation/
+│
+├── README.md
+│
+├── Phase-1-Ideation/
+│
+├── Phase-2-Requirement-Analysis/
+│
+├── Phase-3-Project-Design/
+│
+├── Phase-4-Project-Planning/
+│
+├── Phase-5-User-Acceptance-Testing/
+│
+├── Phase-6-Project-Documentation/
+│
+└── Phase-7-Project-Demonstration/
 
 # Implemented ServiceNow Workflow
 
