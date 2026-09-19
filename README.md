@@ -174,7 +174,7 @@ The project implementation was organized into four sprints.
 The complete implementation was planned and completed through four structured sprints.
 
 ---
----
+
 
 ## Phase 5 – User Acceptance Testing
 
@@ -283,6 +283,7 @@ The complete project follows the following progression:
 **Service Setup → Incident Creation → Classification → Knowledge Assistance → Assignment → Level 2 Investigation → Emergency Change / Child Incident → Resolution → Knowledge Article Creation → SLA & Related Records → Final Validation**
 
 ---
+--------------------------------------------
 
 # Project Structure
 
